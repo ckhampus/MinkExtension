@@ -64,7 +64,7 @@
         </trans-unit>
         <trans-unit id="i-check-option">
             <source><![CDATA[/^(?:|I )check "(?P<option>(?:[^"]|\\")*)"$/]]></source>
-            <target><![CDATA[/^(?:|jag )makerar "(?P<option>(?:[^"]|\\")*)"$/]]></target>
+            <target><![CDATA[/^(?:|jag )markerar "(?P<option>(?:[^"]|\\")*)"$/]]></target>
         </trans-unit>
         <trans-unit id="i-uncheck-option">
             <source><![CDATA[/^(?:|I )uncheck "(?P<option>(?:[^"]|\\")*)"$/]]></source>
