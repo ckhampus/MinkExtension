@@ -76,15 +76,15 @@
         </trans-unit>
         <trans-unit id="i-should-see-text">
             <source><![CDATA[/^(?:|I )should see "(?P<text>(?:[^"]|\\")*)"$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) se "(?P<text>(?:[^"]|\\")*)"$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )se "(?P<text>(?:[^"]|\\")*)"$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-see-text-matching">
             <source><![CDATA[/^(?:|I )should see text matching (?P<pattern>"(?:[^"]|\\")*")$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) se text motsvarande (?P<pattern>"(?:[^"]|\\")*")$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )se text motsvarande (?P<pattern>"(?:[^"]|\\")*")$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-not-see-text-matching">
             <source><![CDATA[/^(?:|I )should not see text matching (?P<pattern>"(?:[^"]|\\")*")$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) inte se text motsvarande (?P<pattern>"(?:[^"]|\\")*")$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )inte se text motsvarande (?P<pattern>"(?:[^"]|\\")*")$/]]></target>
         </trans-unit>
         <trans-unit id="the-response-should-contain">
             <source><![CDATA[/^the response should contain "(?P<text>(?:[^"]|\\")*)"$/]]></source>
@@ -92,7 +92,7 @@
         </trans-unit>
         <trans-unit id="i-should-not-see-text">
             <source><![CDATA[/^(?:|I )should not see "(?P<text>(?:[^"]|\\")*)"$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) inte se "(?P<text>(?:[^"]|\\")*)"$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )inte se "(?P<text>(?:[^"]|\\")*)"$/]]></target>
         </trans-unit>
         <trans-unit id="the-response-should-not-contain">
             <source><![CDATA[/^the response should not contain "(?P<text>(?:[^"]|\\")*)"$/]]></source>
@@ -144,23 +144,23 @@
         </trans-unit>
         <trans-unit id="i-should-see-text-in-element">
             <source><![CDATA[/^(?:|I )should see "(?P<text>(?:[^"]|\\")*)" in the "(?P<element>[^"]*)" element$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) se "(?P<text>(?:[^"]|\\")*)" i elementet "(?P<element>[^"]*)"$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )se "(?P<text>(?:[^"]|\\")*)" i elementet "(?P<element>[^"]*)"$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-not-see-text-in-element">
             <source><![CDATA[/^(?:|I )should not see "(?P<text>(?:[^"]|\\")*)" in the "(?P<element>[^"]*)" element$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) inte se "(?P<text>(?:[^"]|\\")*)" i elementet "(?P<element>[^"]*)"$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )inte se "(?P<text>(?:[^"]|\\")*)" i elementet "(?P<element>[^"]*)"$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-see-element">
             <source><![CDATA[/^(?:|I )should see an? "(?P<element>[^"]*)" element$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) se ett? "(?P<element>[^"]*)" element$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )se ett? "(?P<element>[^"]*)" element$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-not-see-element">
             <source><![CDATA[/^(?:|I )should not see an? "(?P<element>[^"]*)" element$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) inte se ett? "(?P<element>[^"]*)" element$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )inte se ett? "(?P<element>[^"]*)" element$/]]></target>
         </trans-unit>
         <trans-unit id="i-should-see-num-elements">
             <source><![CDATA[/^(?:|I )should see (?P<num>\d+) "(?P<element>[^"]*)" elements?$/]]></source>
-            <target><![CDATA[/^borde (?:|jag ) se (?P<num>\d+) "(?P<element>[^"]*)" element?$/]]></target>
+            <target><![CDATA[/^borde (?:|jag )se (?P<num>\d+) "(?P<element>[^"]*)" element?$/]]></target>
         </trans-unit>
         <trans-unit id="the-response-status-code-should-be">
             <source><![CDATA[/^the response status code should be (?P<code>\d+)$/]]></source>
